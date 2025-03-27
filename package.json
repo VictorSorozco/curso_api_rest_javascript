@@ -1,0 +1,15 @@
+{
+  "name": "curso_api_rest_javascript",
+  "version": "1.0.0",
+  "description": "Curos práctico de consuma de API REST con javaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/VictorSorozco/curso_api_rest_javascript.git)"
+  },
+  "author": "@Victor S. Orozco",
+  "license": "MIT"
+}
